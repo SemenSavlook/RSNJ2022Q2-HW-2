@@ -1,0 +1,20 @@
+{
+  "name": "rsnj2022q2-hw-2",
+  "version": "1.0.0",
+  "description": "Home work 2",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SemenSavlook/RSNJ2022Q2-HW-2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SemenSavlook/RSNJ2022Q2-HW-2/issues"
+  },
+  "homepage": "https://github.com/SemenSavlook/RSNJ2022Q2-HW-2#readme"
+}
